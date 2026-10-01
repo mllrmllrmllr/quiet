@@ -1,7 +1,7 @@
 ------------------------
 
 **mllr Notes:**   
-_Uses [LIT](https://lit.dev/)_
+* Uses [LIT](https://lit.dev/)
 
 ------------------------
 
