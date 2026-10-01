@@ -1,3 +1,5 @@
+_Uses [LIT](https://lit.dev/)_
+
 # Quiet UI
 
 ![Quiet UI logo](https://pbs.twimg.com/profile_banners/1705198841094356992/1697645956/1500x500)
